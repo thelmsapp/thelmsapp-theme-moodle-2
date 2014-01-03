@@ -1,4 +1,4 @@
-This theme is Based on the Bootstrap CSS framework
+This theme is Based on the formal white moodle theme
 
 -------------------------------------------
 
